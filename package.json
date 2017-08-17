@@ -1,6 +1,6 @@
 {
   "name": "favicons-webpack-plugin",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "index.js",
   "files": [
@@ -54,6 +54,5 @@
   },
   "peerDependencies": {
     "webpack": "^1.13.0 || ^2.0.0 || ^3.0.0"
-  },
-  "version": "0.0.8"
+  }
 }
